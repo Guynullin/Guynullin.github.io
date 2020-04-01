@@ -1,0 +1,11 @@
+{
+  "name": "github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Guynullin/github.io.git",
+  "author": "argem.gln@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "sirv-cli": "^0.4.5"
+  }
+}
